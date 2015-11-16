@@ -34,6 +34,7 @@ NeoBundle 't9md/vim-textmanip'
 NeoBundle 'Shougo/unite.vim'
 NeoBundle 'ujihisa/unite-colorscheme'
 NeoBundle 'tomasr/molokai'
+NeoBundle 'Shougo/vimfiler'
 ""NeoBundle 'https://bitbucket.org/kovisoft/slimv'
  
 call neobundle#end()

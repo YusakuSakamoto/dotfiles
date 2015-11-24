@@ -71,5 +71,6 @@ set virtualedit=block
 set whichwrap=b,s,[,],<,>                                      
 set backspace=indent,eol,start                                 
 set wildmenu                                                   
+set encoding=utf-8
 set clipboard=unnamed,autoselect
 syntax on

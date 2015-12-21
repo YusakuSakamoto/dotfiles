@@ -1,0 +1,1 @@
+/home/sakamoto/dotfiles/ubuntu/.emacs.d

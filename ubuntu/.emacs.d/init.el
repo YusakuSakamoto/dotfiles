@@ -12,8 +12,8 @@
 (prefer-coding-system 'utf-8)
 
 ;; ユーザー名とメールアドレスの設定 
-(setq user-full-name "Ryodo Tanaka"
-user-mail-address "GRoadPG@gmail.com")
+(setq user-full-name "YusakuSakamoto"
+user-mail-address "yskibouyskibou@gmail.com")
 
 ;; 背景を透明にする(透明度合いは 95/100)
 (set-frame-parameter nil 'alpha 95)
